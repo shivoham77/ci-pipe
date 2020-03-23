@@ -1,0 +1,4 @@
+--2020-03-22 22:53:27--  https://dotnetwebsite.azurewebsites.net/download/dotnet-core/scripts/v1/dotnet-install.sh
+Resolving dotnetwebsite.azurewebsites.net... 52.160.40.218
+Connecting to dotnetwebsite.azurewebsites.net|52.160.40.218|:443... connected.
+Unable to establish SSL connection.
